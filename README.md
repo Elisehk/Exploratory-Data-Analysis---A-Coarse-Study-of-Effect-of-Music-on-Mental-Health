@@ -1,6 +1,8 @@
 # A Coarse Study of Effect of Music on Mental Health
 This Study follows scientific approach in analyzing the data between music and its effect on mental health.
 
+Dataset: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data
+
 **Problem and Objective**: Mental health issue is escalating in recent years. This Paper aims at looking for data to show music as a remediation to mental problem.
 
 **Hypothesis**: There is relation between music and mental health.
